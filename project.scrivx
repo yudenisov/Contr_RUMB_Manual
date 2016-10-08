@@ -41,24 +41,25 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="6" Created="2016-09-28 15:17:33 +0000" Modified="2016-09-29 13:25:50 +0000" Type="Text">
+                        <BinderItem ID="6" Created="2016-09-28 15:17:33 +0000" Modified="2016-10-07 11:50:03 +0000" Type="Text">
                             <Title>02. Назначение изделия</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4285,4285</TextSelection>
+                                <TextSelection>180,180</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="7" Created="2016-09-28 15:18:37 +0000" Modified="2016-09-28 15:19:41 +0000" Type="Text">
+                        <BinderItem ID="7" Created="2016-09-28 15:18:37 +0000" Modified="2016-10-07 13:34:08 +0000" Type="Text">
                             <Title>03. Технические характеристики</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>67,315</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -121,7 +122,6 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1414,1414</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
