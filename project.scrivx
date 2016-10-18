@@ -19,72 +19,164 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="4" Created="2016-09-28 15:00:32 +0000" Modified="2016-09-28 15:16:07 +0000" Type="Text">
+                        <BinderItem ID="4" Created="2016-09-28 15:00:32 +0000" Modified="2016-10-14 12:18:03 +0000" Type="Text">
                             <Title>00. Вводная часть</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>617,617</TextSelection>
+                                <TextSelection>33,33</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="5" Created="2016-09-28 15:01:58 +0000" Modified="2016-10-03 11:21:20 +0000" Type="Text">
+                        <BinderItem ID="5" Created="2016-09-28 15:01:58 +0000" Modified="2016-10-18 14:14:40 +0000" Type="Text">
                             <Title>01. Таблица сокращений</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>186,186</TextSelection>
+                                <TextSelection>3450,3450</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="6" Created="2016-09-28 15:17:33 +0000" Modified="2016-10-07 11:50:03 +0000" Type="Text">
+                        <BinderItem ID="6" Created="2016-09-28 15:17:33 +0000" Modified="2016-10-14 12:24:58 +0000" Type="Text">
                             <Title>02. Назначение изделия</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>180,180</TextSelection>
+                                <TextSelection>5546,5546</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="7" Created="2016-09-28 15:18:37 +0000" Modified="2016-10-07 13:34:08 +0000" Type="Text">
+                        <BinderItem ID="7" Created="2016-09-28 15:18:37 +0000" Modified="2016-10-14 12:38:19 +0000" Type="Text">
                             <Title>03. Технические характеристики</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>67,315</TextSelection>
+                                <TextSelection>8149,8149</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="8" Created="2016-09-28 15:20:41 +0000" Modified="2016-09-28 15:20:56 +0000" Type="Text">
+                        <BinderItem ID="8" Created="2016-09-28 15:20:41 +0000" Modified="2016-10-14 12:39:05 +0000" Type="Text">
                             <Title>04. Состав изделия</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>0,23</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="9" Created="2016-09-28 15:22:04 +0000" Modified="2016-09-28 15:22:28 +0000" Type="Text">
+                        <BinderItem ID="9" Created="2016-09-28 15:22:04 +0000" Modified="2016-10-14 12:49:56 +0000" Type="Text">
                             <Title>05. Требования к квалификации персонала</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>675,675</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="10" Created="2016-09-28 15:23:36 +0000" Modified="2016-09-28 15:24:04 +0000" Type="Text">
+                        <BinderItem ID="10" Created="2016-09-28 15:23:36 +0000" Modified="2016-10-14 12:41:27 +0000" Type="Text">
                             <Title>06. Техника безопасности при работе с прибором</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>48,48</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="15" Created="2016-10-13 10:33:14 +0000" Modified="2016-10-13 10:33:25 +0000" Type="Folder">
+                    <Title>001. Устройство и работа прибора</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="16" Created="2016-10-13 10:35:19 +0000" Modified="2016-10-14 12:54:12 +0000" Type="Text">
+                            <Title>01. Устройство и конструкция</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>793,793</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="17" Created="2016-10-13 10:49:07 +0000" Modified="2016-10-18 14:22:18 +0000" Type="Text">
+                            <Title>02. Органы индикации и управление КСУ</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,4742</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="14" Created="2016-10-13 10:29:59 +0000" Modified="2016-10-13 10:30:15 +0000" Type="Folder">
+                    <Title>002. Информационные экраны КСУ и система меню</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="18" Created="2016-10-13 12:24:52 +0000" Modified="2016-10-18 14:24:26 +0000" Type="Text">
+                            <Title>01. Общая информация о системе меню и графическом дисплее КСУ</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,2580</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="19" Created="2016-10-18 14:27:40 +0000" Modified="2016-10-18 14:28:21 +0000" Type="Folder">
+                    <Title>003. КСУ со встроенным преобразователем частоты</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="20" Created="2016-10-18 14:30:01 +0000" Modified="2016-10-18 14:30:22 +0000" Type="Folder">
+                    <Title>004. Защиты, обеспечиваемые прибором</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="21" Created="2016-10-18 14:34:17 +0000" Modified="2016-10-18 16:01:31 +0000" Type="Text">
+                            <Title>01. Защита от перегрузки</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -104,6 +196,19 @@
                     <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                    <Children>
+                        <BinderItem ID="13" Created="2016-10-03 11:39:23 +0000" Modified="2016-10-14 13:00:10 +0000" Type="Text">
+                            <Title>A.01. Способы организации защиты</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,4144</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
                 <BinderItem ID="12" Created="2016-10-03 11:36:23 +0000" Modified="2016-10-03 11:36:38 +0000" Type="Folder">
                     <Title>Некатегоризированные заметки</Title>
@@ -114,18 +219,6 @@
                     <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
-                    <Children>
-                        <BinderItem ID="13" Created="2016-10-03 11:39:23 +0000" Modified="2016-10-03 13:07:59 +0000" Type="Text">
-                            <Title>Способы организации защиты</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
                 </BinderItem>
             </Children>
         </BinderItem>
