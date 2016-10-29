@@ -26,18 +26,18 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>33,33</TextSelection>
+                                <TextSelection>220,220</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="5" Created="2016-09-28 15:01:58 +0000" Modified="2016-10-18 14:14:40 +0000" Type="Text">
+                        <BinderItem ID="5" Created="2016-09-28 15:01:58 +0000" Modified="2016-10-22 03:49:04 +0000" Type="Text">
                             <Title>01. Таблица сокращений</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3450,3450</TextSelection>
+                                <TextSelection>26,26</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -48,18 +48,18 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5546,5546</TextSelection>
+                                <TextSelection>601,602</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="7" Created="2016-09-28 15:18:37 +0000" Modified="2016-10-14 12:38:19 +0000" Type="Text">
+                        <BinderItem ID="7" Created="2016-09-28 15:18:37 +0000" Modified="2016-10-22 04:03:07 +0000" Type="Text">
                             <Title>03. Технические характеристики</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>8149,8149</TextSelection>
+                                <TextSelection>35,9607</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -81,7 +81,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>675,675</TextSelection>
+                                <TextSelection>44,675</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -115,18 +115,18 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>793,793</TextSelection>
+                                <TextSelection>183,183</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="17" Created="2016-10-13 10:49:07 +0000" Modified="2016-10-18 14:22:18 +0000" Type="Text">
+                        <BinderItem ID="17" Created="2016-10-13 10:49:07 +0000" Modified="2016-10-22 04:00:13 +0000" Type="Text">
                             <Title>02. Органы индикации и управление КСУ</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,4742</TextSelection>
+                                <TextSelection>3242,3242</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -149,7 +149,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,2580</TextSelection>
+                                <TextSelection>66,2569</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -175,13 +175,36 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="21" Created="2016-10-18 14:34:17 +0000" Modified="2016-10-18 16:01:31 +0000" Type="Text">
-                            <Title>01. Защита от перегрузки</Title>
+                        <BinderItem ID="13" Created="2016-10-03 11:39:23 +0000" Modified="2016-10-20 11:54:54 +0000" Type="Text">
+                            <Title>01. Способы организации защиты</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>35,4153</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="21" Created="2016-10-18 14:34:17 +0000" Modified="2016-10-20 11:51:58 +0000" Type="Text">
+                            <Title>02. Защита от перегрузки</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>29,4083</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="22" Created="2016-10-20 11:34:45 +0000" Modified="2016-10-20 11:52:20 +0000" Type="Text">
+                            <Title>03. Защита от недогрузки</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>940,940</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -196,19 +219,6 @@
                     <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
-                    <Children>
-                        <BinderItem ID="13" Created="2016-10-03 11:39:23 +0000" Modified="2016-10-14 13:00:10 +0000" Type="Text">
-                            <Title>A.01. Способы организации защиты</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,4144</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
                 </BinderItem>
                 <BinderItem ID="12" Created="2016-10-03 11:36:23 +0000" Modified="2016-10-03 11:36:38 +0000" Type="Folder">
                     <Title>Некатегоризированные заметки</Title>
@@ -273,5 +283,5 @@
         <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetDaily="No" DeterminedFromDeadline="No" WritingDays="">0</SessionTarget>
     </ProjectTargets>
-    <PrintSettings PaperType="A4" LeftMargin="0" RightMargin="0" TopMargin="0" BottomMargin="0" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+    <PrintSettings PaperType="A5" LeftMargin="4.96064" RightMargin="4.96064" TopMargin="5.6693" BottomMargin="5.6693" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
 </ScrivenerProject>
